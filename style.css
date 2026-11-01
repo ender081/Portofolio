@@ -433,6 +433,7 @@ body {
 }
 
 .social-links {
+  justify-content: right;
   display: flex;
   gap: 1rem;
 }
